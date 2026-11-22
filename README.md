@@ -4,7 +4,7 @@ This project is an exercise of Free Speech under the US Constitution First Amend
 
 Public announcement on X --- https://x.com/ShawnMerdinger/status/2124593698570645528
 
-Note Georgia Tech itself as a .edu conducts research extensive scanning of public Internet at least with 50+ scanning hosts identified below:
+Note Georgia Tech itself as a .edu conducts research extensive scanning of public Internet with at least fifty-plus (50+) scanning hosts identified below:
 
 1.  https://github.com/Shawn-Merdinger-Shodan/Georgia-Institute-Technology-Shodan/blob/main/gatech_scanning_project.png
 
